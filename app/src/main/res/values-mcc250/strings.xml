@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jeu de dés</string>
+    <string name="roll_dice">Roulez les dés</string>
+    <string name="exit"> Sortie </string>
+    <string name="start_new_game">Commencer une nouvelle partie</string>
+    <string name="go"> Aller </string>
+    <string name="quit_game"> Quitter </string>
+    <string name="playerStatus">Lancez deux doubles pour gagner</string>
+    <string name="enter_player1_name">Entrer Nom du joueur 1: </string>
+    <string name="enter_player2_name">Entrer Nom du joueur 1 2: </string>
+</resources>
